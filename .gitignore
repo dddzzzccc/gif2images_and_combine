@@ -1,0 +1,26 @@
+#  编译输出
+bin/
+obj/
+
+#  用户设置
+*.user
+*.suo
+*.vspscc
+*.csproj.user
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 文件
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# ReSharper 
+*.DotSettings
+*.DotSettings.user
+
+#  其他
+*.log
+*.cache
+*.bak
