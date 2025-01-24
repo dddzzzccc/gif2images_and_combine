@@ -13,7 +13,6 @@ obj/
 # Visual Studio 文件
 .vs/
 *.sln
-*.csproj
 *.vcxproj
 *.vcxproj.filters
 
