@@ -14,9 +14,12 @@ obj/
 .vs/
 *.sln
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.csproj
 =======
 >>>>>>> develop
+=======
+>>>>>>> 16dad973f1702929a92010bec686af614ccd1028
 *.vcxproj
 *.vcxproj.filters
 
