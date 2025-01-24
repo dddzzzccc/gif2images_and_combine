@@ -13,7 +13,10 @@ obj/
 # Visual Studio 文件
 .vs/
 *.sln
+<<<<<<< HEAD
 *.csproj
+=======
+>>>>>>> develop
 *.vcxproj
 *.vcxproj.filters
 
